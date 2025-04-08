@@ -5,6 +5,8 @@ nav:
   - Installation: installation.md
   - Usage:
       - Overview: usage.md
+  - Metrics:
+      - Overview: metrics.md
 theme:
   name: material
   features:
